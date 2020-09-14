@@ -15,12 +15,6 @@ import sun.misc.BASE64Decoder;
 
 
 /**
- **************************************************************
- *                                                            *
- *                          深圳易仓科技                                                                                            * 
- *                    https://www.eccang.com/                 *
- *                                                            *
- **************************************************************
  * @Title：DesUtil.java
  * @Description:用一句话来描述这个类的作用
  * @Author: liaoziyang
@@ -38,7 +32,7 @@ public class DesUtil {
     @Test
 	public static void test() {
         try {
-			System.err.println(decrypt("87IWwOm1rRTkJmtoYPFUs+EwTKTIHDaH2dVTmHA2h1c=", "mxITjtVqv"));
+			System.err.println(decrypt("xxxxxx", "xxxxxxxx"));
 		} catch (IOException e) {
 			LOG.error(e);
 		} catch (Exception e) {
