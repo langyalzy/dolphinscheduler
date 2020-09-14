@@ -40,13 +40,9 @@ public class JDBCutil {
 	static Logger LOG =Logger.getLogger(JDBCutil.class); 
 	
     private static  String driver="com.mysql.jdbc.Driver";
-//    private static  String url="jdbc:mysql://rm-wz95t6nv9ib8l68uddo.mysql.rds.aliyuncs.com:3306/hzdl_wms?tinyInt1isBit=false&zeroDateTimeBehavior=convertToNull"; 
-//    private static  String username="bi_read_only";
-//    private static  String password="oP6gW0lQcmyQ4F8dUK";
-    private static  String url="jdbc:mysql://rm-wz9g1642yu61s233e2o.mysql.rds.aliyuncs.com:3306/amazon_dms"; 
-//    private static  String url="jdbc:mysql://rm-wz9g1642yu61s233e2o.mysql.rds.aliyuncs.com:3306/amazon_dms?tinyInt1isBit=false&zeroDateTimeBehavior=convertToNull"; 
-    private static  String username="dms";
-    private static  String password="WJC4ki4HdxexCZjD";
+    private static  String url="jdbc:mysql://xxxxxxxx:3306/xxx"; 
+    private static  String username="xxxx";
+    private static  String password="xxxx";
     
     static {//静态代码块注册驱动
         try {
