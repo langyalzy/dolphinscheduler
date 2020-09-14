@@ -21,12 +21,6 @@ import com.eccang.constant.Constants;
 
 /**
  * 
- **************************************************************
- *                                                            *
- *                          深圳易仓科技                                                                                            * 
- *                    https://www.eccang.com/                 *
- *                                                            *
- **************************************************************
  * @Title：Request.java
  * @Description:请求主类
  * @Author: liaoziyang
