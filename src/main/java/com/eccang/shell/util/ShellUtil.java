@@ -6,12 +6,6 @@ import org.apache.log4j.Logger;
 
 /**
  * 
- **************************************************************
- *                                                            *
- *                          深圳易仓科技                                                                                            * 
- *                    https://www.eccang.com/                 *
- *                                                            *
- **************************************************************
  * @Title：ShellUtil.java
  * @Description:linux 执行shell工具类
  * @Author: liaoziyang
