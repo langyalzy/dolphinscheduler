@@ -19,12 +19,6 @@ import com.eccang.entity.CompanyAmazonConfig;
 
 /**
  * 
- **************************************************************
- *                                                            *
- *                          深圳易仓科技                                                                                            * 
- *                    https://www.eccang.com/                 *
- *                                                            *
- **************************************************************
  * @Title：JDBCutil.java
  * @Description: jdbc 连接工具类<br>
  * 1、获取连接<br>
