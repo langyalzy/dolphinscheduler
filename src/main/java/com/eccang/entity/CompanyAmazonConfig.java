@@ -5,12 +5,6 @@ import java.util.Map;
 
 /**
  * 
- **************************************************************
- *                                                            *
- *                          深圳易仓科技                                                                                            * 
- *                    https://www.eccang.com/                 *
- *                                                            *
- **************************************************************
  * @Title：CompanyAmazonConfig.java
  * @Description:用一句话来描述这个类的作用
  * @Author: liaoziyang
