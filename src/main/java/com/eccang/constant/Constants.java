@@ -2,12 +2,6 @@ package com.eccang.constant;
 
 /**
  * 
- **************************************************************
- *                                                            *
- *                          深圳易仓科技                                                                                            * 
- *                    https://www.eccang.com/                 *
- *                                                            *
- **************************************************************
  * @Title：Constants.java
  * @Description:定义海豚创建工作流必要属性
  * @Author: liaoziyang
@@ -24,7 +18,7 @@ public interface Constants {
 	
 	
 	//工作流程相关
-	String DOLPHINSCHEDULER_URL="http://prod-bigdata-4:9030/dolphinscheduler/projects/show_test/process/save";
+	String DOLPHINSCHEDULER_URL="http://xxxxxxxx:9030/dolphinscheduler/projects/show_test/process/save";
 	String CONNECTIONS = "[]";
 	
 	String LOCATIONS = "{\"tasks-74345\":{\"name\":\"${company_code}_ods_ad_product_ad_products_report_daily_incr\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":73,\"y\":0},\"tasks-56272\":{\"name\":\"${company_code}_ods_biz_ec_amazon_fba_estimated_fba_fees_txt_data\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":74,\"y\":88},\"tasks-30710\":{\"name\":\"${company_code}_ods_biz_ec_amazon_fba_fulfillment_customer_returns_data_incr\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":76,\"y\":180},\"tasks-20935\":{\"name\":\"${company_code}_ods_biz_ec_amazon_fba_fulfillment_longterm_data_report\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":67,\"y\":271},\"tasks-18216\":{\"name\":\"${company_code}_ods_biz_ec_amazon_fba_fulfillment_longterm_storage_fee_charges_data\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":65,\"y\":361},\"tasks-39990\":{\"name\":\"${company_code}_ods_biz_ec_amazon_fba_fulfillment_removal_order_detail_data\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":62,\"y\":474},\"tasks-89323\":{\"name\":\"${company_code}_ods_biz_ec_amazon_fba_fulfillment_removal_shipment_detail_data\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":56,\"y\":595},\"tasks-96059\":{\"name\":\"${company_code}_ods_biz_ec_amazon_fba_reimbursement_incr\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":281,\"y\":0},\"tasks-54717\":{\"name\":\"${company_code}_ods_biz_ec_amazon_fba_storage_data_report\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":276,\"y\":88},\"tasks-47817\":{\"name\":\"${company_code}_ods_biz_ec_amazon_fba_storage_fee_charges_data\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":279,\"y\":176},\"tasks-74607\":{\"name\":\"${company_code}_ods_biz_ec_amazon_fulfillment_inventory_adjustments_data_incr\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":271,\"y\":274},\"tasks-15205\":{\"name\":\"${company_code}_ods_biz_ec_amazon_listing_attributes_incr\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":281,\"y\":363},\"tasks-31690\":{\"name\":\"${company_code}_ods_biz_ec_amazon_parent_listing_incr\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":283,\"y\":472},\"tasks-19650\":{\"name\":\"${company_code}_ods_biz_ec_platform_user_incr\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":262,\"y\":593},\"tasks-72330\":{\"name\":\"${company_code}_ods_biz_ec_seller_shop\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":506,\"y\":0},\"tasks-58993\":{\"name\":\"${company_code}_ods_ec_amazon_get_merchant_listings_data_incr\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":507,\"y\":87},\"tasks-362\":{\"name\":\"${company_code}_ods_biz_ec_amazon_fba_myi_all_inventory\",\"targetarr\":\"\",\"nodenumber\":\"0\",\"x\":497,\"y\":181}}";
