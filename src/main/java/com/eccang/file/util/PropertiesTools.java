@@ -17,12 +17,6 @@ import org.junit.Test;
 
 /**
  * 
- **************************************************************
- *                                                            *
- *                          深圳易仓科技                                                                                            * 
- *                    https://www.eccang.com/                 *
- *                                                            *
- **************************************************************
  * @Title：PropertiesTools.java
  * @Description:配置文件工具类
  * @Author: liaoziyang
