@@ -1,12 +1,6 @@
 package com.eccang.request;
 /**
  * 
- **************************************************************
- *                                                            *
- *                          深圳易仓科技                                                                                            * 
- *                    https://www.eccang.com/                 *
- *                                                            *
- **************************************************************
  * @Title：Protocol.java
  * @Description:
  * @Author: liaoziyang
