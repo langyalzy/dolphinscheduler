@@ -2,12 +2,6 @@ package com.eccang.request;
 
 /**
  * 
- **************************************************************
- *                                                            *
- *                          深圳易仓科技                                                                                            * 
- *                    https://www.eccang.com/                 *
- *                                                            *
- **************************************************************
  * @Title：CallBack.java
  * @Description:用一句话来描述这个类的作用
  * @Author: liaoziyang
