@@ -28,7 +28,7 @@ public interface Constants {
 	String PROJECT_NAME = "dms_ods_project";
 	String DESCRIPTION = "";
 	
-	String TOKEN = "ea47869c2808c79c67b4e52e4e050ae3";
+	String TOKEN = "xxxxxxxxxx";
 	
 	String COMPANY_CODE_PLACEHOLDER = "\\$\\{company_code\\}";
 	
