@@ -19,12 +19,6 @@ import com.eccang.constant.Constants;
 
 /**
  * 
- **************************************************************
- *                                                            *
- *                          深圳易仓科技                                                                                            * 
- *                    https://www.eccang.com/                 *
- *                                                            *
- **************************************************************
  * @Title：FileTools.java
  * @Description:文件讀寫工具類
  * @Author: liaoziyang
