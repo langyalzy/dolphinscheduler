@@ -1,0 +1,3 @@
+1、打包（所有依賴jar打包）
+mvn DskipTests clean compile assembly:assembly
+
